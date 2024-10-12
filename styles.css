@@ -41,6 +41,10 @@ body {
   letter-spacing: 0;
 }
 
+.heading-for-semantic {
+  display: none;
+}
+
 .top-container {
   height: 100vh;
   display: flex;
